@@ -1,7 +1,10 @@
 # DP 계단 오르기
+
 <img width="1209" alt="스크린샷 2020-10-11 오후 5 05 20" src="https://user-images.githubusercontent.com/42570260/95673512-03416b00-0be4-11eb-8aa3-adc580e81379.png">
 <img width="1166" alt="스크린샷 2020-10-11 오후 5 04 59" src="https://user-images.githubusercontent.com/42570260/95673513-06d4f200-0be4-11eb-956e-183a74c99cb0.png">
+
 </br></br>
+
 ## 문제 풀이
 ### 계단을 올라가는 규칙
 - 계단은 한 계단이나 두 계단을 올라갈 수 있음
