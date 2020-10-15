@@ -2,6 +2,7 @@
 <img width="1193" alt="스크린샷 2020-10-15 오후 7 52 06" src="https://user-images.githubusercontent.com/42570260/96114004-f4c6bc80-0f1f-11eb-9ffa-206adb764d4e.png">
 <img width="1221" alt="스크린샷 2020-10-15 오후 7 52 19" src="https://user-images.githubusercontent.com/42570260/96114010-f85a4380-0f1f-11eb-992b-4b8626c7dcb2.png">
 </br></br>
+
 ## 문제 풀이
 - 익은 토마토는 하루 동안 자신의 상, 하, 좌, 우의  안 익은 토마토를 익도록 한다
 - 입력 값에서 토마토 익은 토마토는 1, 안 익은 토마토는 0, 빈 토마토 자리는 -1로 주어진다
