@@ -1,5 +1,5 @@
 # LinkedList_Stack 에디터
-<img width="1174" alt="스크린샷 2020-10-20 오후 8 46 31" src="https://user-images.githubusercontent.com/42570260/96581820-5ec2d580-1315-11eb-9b0d-5493b5ec57a0.png">
+<img width="1174" alt="스크린샷 2020-10-20 오후 8 46 09" src="https://user-images.githubusercontent.com/42570260/96581833-61bdc600-1315-11eb-8df3-bf50d739fc80.png">
 </br></br>
 
 ## 문제 풀이
@@ -26,4 +26,4 @@
 #### StringBuilder Class에서 0번 위치에 계속 삽입하는 과정에서 시간초과 발생
 #### 그렇다면 왼쪽 스택을 전부 오른쪽으로 밀어넣은 후 String builder Class에서 append() 해서 성공!
 
-<img width="1174" alt="스크린샷 2020-10-20 오후 8 46 09" src="https://user-images.githubusercontent.com/42570260/96581833-61bdc600-1315-11eb-8df3-bf50d739fc80.png">
+<img width="1174" alt="스크린샷 2020-10-20 오후 8 46 31" src="https://user-images.githubusercontent.com/42570260/96581820-5ec2d580-1315-11eb-9b0d-5493b5ec57a0.png">
