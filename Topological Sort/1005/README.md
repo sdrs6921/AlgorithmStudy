@@ -1,7 +1,8 @@
 # Topological Sort - ACM Craft
 
-<img width="1175" alt="스크린샷 2020-10-29 오후 8 00 39" src="https://user-images.githubusercontent.com/42570260/97559959-6f640180-1a21-11eb-9e21-7b0cbcd65faa.png">
 <img width="1175" alt="스크린샷 2020-10-29 오후 8 00 22" src="https://user-images.githubusercontent.com/42570260/97559976-72f78880-1a21-11eb-9ffa-cfea2678620b.png">
+<img width="1175" alt="스크린샷 2020-10-29 오후 8 00 39" src="https://user-images.githubusercontent.com/42570260/97559959-6f640180-1a21-11eb-9e21-7b0cbcd65faa.png">
+
 
 ## 문제 풀이
 - 테스트 케이스, 건물의 개수, 건물 간 건설 규칙, 건설 당 걸리는 시간, 승리하기 위한 건물의 번호가 입력으로 주어짐.
