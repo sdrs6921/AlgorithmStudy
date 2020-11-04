@@ -1,6 +1,7 @@
 # BFS - Line Friends (Small)
-<img width="1161" alt="스크린샷 2020-11-04 오후 4 43 27" src="https://user-images.githubusercontent.com/42570260/98083620-fc91d500-1ebd-11eb-9eb3-e9d85ea9cf76.png">
+
 <img width="1161" alt="스크린샷 2020-11-04 오후 4 43 13" src="https://user-images.githubusercontent.com/42570260/98083633-00255c00-1ebe-11eb-8110-c6953c66f6a1.png">
+<img width="1161" alt="스크린샷 2020-11-04 오후 4 43 27" src="https://user-images.githubusercontent.com/42570260/98083620-fc91d500-1ebd-11eb-9eb3-e9d85ea9cf76.png">
 </br></br>
 
 ## 문제 풀이
